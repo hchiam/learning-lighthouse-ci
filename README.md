@@ -9,7 +9,9 @@ npm start
 
 Now you can `lhci autorun` in that same folder (in a separate CLI tab).
 
-Results: [![Build Status](https://travis-ci.org/hchiam/test-lhci.svg?branch=master)](https://travis-ci.org/hchiam/test-lhci)
+But the key is the settings in `.travis.yml`
+
+Results: [![Build Status](https://travis-ci.com/hchiam/test-lhci.svg?branch=master)](https://travis-ci.com/hchiam/test-lhci)
 
 The following is auto-generated readme:
 
