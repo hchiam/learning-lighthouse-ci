@@ -9,6 +9,8 @@ npm start
 
 Now you can `lhci autorun` in that same folder (in a separate CLI tab).
 
+Results: [![Build Status](https://travis-ci.org/hchiam/test-lhci.svg?branch=master)](https://travis-ci.org/hchiam/test-lhci)
+
 The following is auto-generated readme:
 
 -------
