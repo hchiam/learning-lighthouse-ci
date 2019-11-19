@@ -6,11 +6,11 @@ Have Lighthouse CI tool run with Travis for every commit or PR to a web app proj
 
 ## Results upon commit
 
-[![Build Status](https://travis-ci.com/hchiam/test-lhci.svg?branch=master)](https://travis-ci.com/hchiam/test-lhci)
+[![Build Status](https://travis-ci.com/hchiam/learning-lighthouse-ci.svg?branch=master)](https://travis-ci.com/hchiam/learning-lighthouse-ci)
 
-You can see the automated test run data here: <https://travis-ci.com/hchiam/test-lhci> (or click on the badge above)
+Automated test run info here: <https://travis-ci.com/hchiam/learning-lighthouse-ci> (or click on the badge above)
 
-You can see an example PR here (click "View details"): <https://github.com/hchiam/test-lhci/pull/1#issuecomment-555602268>
+Example PR here (click "View details"): <https://github.com/hchiam/learning-lighthouse-ci/pull/1#issuecomment-555602268>
 
 ## Setup steps (after you `git clone` this repo)
 
@@ -22,20 +22,20 @@ You can see an example PR here (click "View details"): <https://github.com/hchia
 
 ```bash
 # cd to desktop or containing folder
-create-react-app test-lhci
+create-react-app my-app
 ```
 
 1. To make sure it's working locally:
 
 ```bash
-cd test-lhci
+cd my-app
 npm start
 ```
 
 and in another CLI tab:
 
 ```bash
-cd test-lhci
+cd my-app
 npm install -g @lhci/cli@0.3.x
 lhci autorun
 ```
