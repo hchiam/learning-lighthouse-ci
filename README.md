@@ -1,4 +1,4 @@
-# Learning Lighthouse CI
+# Learning Lighthouse CI from scratch (quickstart)
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
