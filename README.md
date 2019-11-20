@@ -2,7 +2,7 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-Have Lighthouse CI tool run with Travis for every commit or PR to a web app project hosted on GitHub.
+Have [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) tool run with Travis for every commit or PR to a web app project hosted on GitHub.
 
 ## Results upon commit
 
