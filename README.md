@@ -72,3 +72,15 @@ Example PR here (click "View details"): <https://github.com/hchiam/learning-ligh
     addons:
       chrome: stable
     ```
+
+## Aside
+
+If you want to see a report with more details (e.g. vulnerable libraries -> which *specific* ones), use a different CLI tool: run [`lighthouse`](https://github.com/GoogleChrome/lighthouse) locally:
+
+```bash
+npm install -g lighthouse
+lighthouse https://airhorner.com/
+# lighthouse <url>
+```
+
+Then open the generated html file.
