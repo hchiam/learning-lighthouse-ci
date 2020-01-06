@@ -6,9 +6,9 @@ Have [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) tool run wit
 
 ## Results upon commit
 
-[![Build Status](https://travis-ci.com/hchiam/learning-lighthouse-ci.svg?branch=master)](https://travis-ci.com/hchiam/learning-lighthouse-ci)
+[![Build Status](https://travis-ci.org/hchiam/learning-lighthouse-ci.svg?branch=master)](https://travis-ci.org/hchiam/learning-lighthouse-ci)
 
-Automated test run info here: <https://travis-ci.com/hchiam/learning-lighthouse-ci> (or click on the badge above)
+Automated test run info here: <https://travis-ci.org/hchiam/learning-lighthouse-ci> (or click on the badge above)
 
 Example PR here (click "View details"): <https://github.com/hchiam/learning-lighthouse-ci/pull/1#issuecomment-555602268>
 
