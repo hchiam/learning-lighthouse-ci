@@ -1,5 +1,7 @@
 # Learning Lighthouse CI from scratch (quickstart)
 
+[![HitCount](http://hits.dwyl.com/hchiam/learning-lighthouse-ci.svg)](http://hits.dwyl.com/hchiam/learning-lighthouse-ci)
+
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 Have [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) tool run with Travis for every commit or PR to a web app project hosted on GitHub.
