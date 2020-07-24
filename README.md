@@ -1,6 +1,6 @@
 # Learning Lighthouse CI from scratch (quickstart)
 
-![version](https://img.shields.io/github/release/hchiam/learning-lighthouse-ci) [![HitCount](http://hits.dwyl.com/hchiam/learning-lighthouse-ci.svg)](http://hits.dwyl.com/hchiam/learning-lighthouse-ci)
+[![version](https://img.shields.io/github/release/hchiam/learning-lighthouse-ci?style=flat-square)](https://github.com/hchiam/learning-lighthouse-ci/releases) [![HitCount](http://hits.dwyl.com/hchiam/learning-lighthouse-ci.svg)](http://hits.dwyl.com/hchiam/learning-lighthouse-ci)
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
@@ -8,7 +8,7 @@ Have [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) tool run wit
 
 ## Results upon commit
 
-[![Build Status](https://travis-ci.org/hchiam/learning-lighthouse-ci.svg?branch=master)](https://travis-ci.org/hchiam/learning-lighthouse-ci)
+[![Build Status](https://img.shields.io/travis/hchiam/learning-lighthouse-ci/master?style=flat-square)](https://travis-ci.org/hchiam/learning-lighthouse-ci)
 
 Automated test run info here: <https://travis-ci.org/hchiam/learning-lighthouse-ci> (or click on the badge above)
 
