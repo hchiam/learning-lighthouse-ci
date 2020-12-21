@@ -1,4 +1,4 @@
-language: node_js
+language: node_js #test
 node_js:
   - 10
 before_install:
