@@ -1,7 +1,7 @@
 {
   "ci": {
     "assert": {
-      "preset": "lighthouse:recommended",
+      "preset": "lighthouse:recommended", #testing
       "assertions": {
         "categories.pwa": "off",
         "bypass": ["error", {"minScore": 0}],
