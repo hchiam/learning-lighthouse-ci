@@ -1,6 +1,6 @@
 # Learning Lighthouse CI from scratch (quickstart)
 
-[![version](https://img.shields.io/github/release/hchiam/learning-lighthouse-ci?style=flat-square)](https://github.com/hchiam/learning-lighthouse-ci/releases) [![HitCount](http://hits.dwyl.com/hchiam/learning-lighthouse-ci.svg)](http://hits.dwyl.com/hchiam/learning-lighthouse-ci)
+[![version](https://img.shields.io/github/release/hchiam/learning-lighthouse-ci?style=flat-square)](https://github.com/hchiam/learning-lighthouse-ci/releases)
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
