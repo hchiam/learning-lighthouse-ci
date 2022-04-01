@@ -26,7 +26,7 @@ Example PR here (click "View details"): <https://github.com/hchiam/learning-ligh
     and in a separate CLI tab:
 
     ```bash
-    npm build
+    npm run build
     npm install -g @lhci/cli@0.3.x
     lhci autorun
     ```
