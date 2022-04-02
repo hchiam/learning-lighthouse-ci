@@ -8,11 +8,11 @@ Have [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) tool run wit
 
 ## Results upon commit
 
-[![Build Status](https://img.shields.io/travis/hchiam/learning-lighthouse-ci/master?style=flat-square)](https://travis-ci.org/hchiam/learning-lighthouse-ci)
+[![Build Status](https://img.shields.io/travis/hchiam/learning-lighthouse-ci/master?style=flat-square)](https://travis-ci.org/hchiam/learning-lighthouse-ci/builds)
 
-Automated test run info here: <https://travis-ci.org/hchiam/learning-lighthouse-ci> (or click on the badge above)
+**Automated test run info here:** <https://travis-ci.org/hchiam/learning-lighthouse-ci/builds> (or click on the badge above). **Update:** Since June 15th, 2021, building on travis-ci.org "ceased", so you should use travis-ci.com from now on. Some of the old .org links have stopped working, so here's the .com builds page: <https://app.travis-ci.com/github/hchiam/learning-lighthouse-ci/builds> Also, you may want to use free GitHub Actions instead.
 
-Example PR here (click "View details"): <https://github.com/hchiam/learning-lighthouse-ci/pull/1#issuecomment-555602268>
+**Example PR here (click "View details"):** <https://github.com/hchiam/learning-lighthouse-ci/pull/1#issuecomment-555602268>
 
 ## Setup steps (if you `git clone` this repo)
 
